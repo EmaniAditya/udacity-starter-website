@@ -10,6 +10,7 @@ index.html - The Index document for the website.
 /vendor - Bootstrap CSS framework, Font Awesome, and jQuery libraries needed for the website to function.
 /css - CSS files for the website.
 
+Live deployment url - https://d2xr1ydllkrp6w.cloudfront.net/
 live-deployment-url.txt - Contains the deployed website URL.
 udacity-aws-project-progress-screenshots.pdf - Contains project screenshots and deployment verification.
 
