@@ -10,4 +10,7 @@ index.html - The Index document for the website.
 /vendor - Bootstrap CSS framework, Font Awesome, and jQuery libraries needed for the website to function.
 /css - CSS files for the website.
 
+live-deployment-url.txt - Contains the deployed website URL.
+udacity-aws-project-progress-screenshots.pdf - Contains project screenshots and deployment verification.
+
 
